@@ -2,3 +2,5 @@ pandas
 scikit-learn
 xgboost
 matplotlib>=3.0.0
+seaborn>=0.11.0
+
