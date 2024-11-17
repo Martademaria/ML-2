@@ -1,3 +1,4 @@
 pandas
 scikit-learn
 xgboost
+matplotlib>=3.0.0
